@@ -7,7 +7,9 @@ A modern React-based catalog of creative CSS effects with live demos, code viewi
 ## English
 
 ### What is this site for?
+
 **CSS Showcase** is a visual catalog of interesting and creative CSS effects designed for developers. Each effect demonstrates modern CSS techniques including:
+
 - Glow and gradient animations
 - Glassmorphism
 - Neon effects
@@ -15,6 +17,7 @@ A modern React-based catalog of creative CSS effects with live demos, code viewi
 - Text gradient animations
 
 ### How to use
+
 1. Browse effects on the main page in the card grid
 2. Each card shows a live preview — hover to interact
 3. Click "Открыть" (Open) to view full effect details
@@ -40,6 +43,7 @@ npm run build
 ```
 
 ### Features
+
 - Live preview of each effect
 - Interactive hue slider (for applicable effects)
 - Syntax-highlighted code blocks
@@ -48,12 +52,19 @@ npm run build
 - Favorites collection (localStorage)
 - Dark theme with neon accents
 
+### P.S
+
+- Yes it has some bugs, but I think it's allright if you can fix it
+- Open source anyway, free to use
+
 ---
 
 ## Русский
 
 ### Для чего этот сайт?
+
 **CSS Showcase** — это визуальный каталог интересных и креативных CSS-эффектов для разработчиков. Каждый эффект демонстрирует современные техники CSS, включая:
+
 - Свечение и градиентные анимации
 - Стеклоподобный эффект (glassmorphism)
 - Неоновые эффекты
@@ -61,6 +72,7 @@ npm run build
 - Анимированные градиенты текста
 
 ### Как использовать
+
 1. Просматривайте эффекты на главной странице в виде сетки карточек
 2. Каждая карточка показывает живой предпросмотр — наводите для взаимодействия
 3. Нажмите "Открыть" для просмотра полной информации об эффекте
@@ -86,6 +98,7 @@ npm run build
 ```
 
 ### Особенности
+
 - Живой предпросмотр каждого эффекта
 - Интерактивный ползунок оттенка (для применимых эффектов)
 - Подсветка синтаксиса кода
@@ -94,13 +107,20 @@ npm run build
 - Коллекция избранного (localStorage)
 - Тёмная тема с неоновыми акцентами
 
+### P.S
+
+- Да тут есть баги, но думаю это не проблема вам чтобы их исправить
+- Как никак код открытый, и бесплатно
+
 ---
 
 ## Tech Stack
+
 - React (Vite)
 - React Router
 - Prism.js (syntax highlighting)
 - Pure CSS (dark theme)
 
 ## License
+
 MIT
