@@ -1,0 +1,20 @@
+.effect-detail { padding: 20px 0; }
+.back-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: transparent; border: 1px solid rgba(255,255,255,.3);
+  color: #fff; padding: 8px 14px; border-radius: 8px;
+  cursor: pointer; font-size: 14px;
+  transition: all .2s ease; margin-bottom: 16px;
+}
+.back-btn:hover {
+  background: rgba(255,255,255,.1); border-color: rgba(255,255,255,.6);
+}
+.back-arrow { font-size: 16px; }
+.detail-title { font-size: 28px; margin: 8px 0; }
+.detail-desc { color: #cbd5e1; margin-bottom: 16px; }
+.detail-demo { display: flex; align-items: center; justify-content: center; padding: 20px; }
+.demo-live { padding: 12px; border-radius: 12px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.15); }
+.code-section { margin-top: 20px; }
+.external-actions { margin-top: 12px; }
+.note { color: #94a3b8; font-size: 12px; margin-top: 8px; }
+.ghost { background: transparent; border:1px solid rgba(255,255,255,.4); color:#fff; padding:8px 12px; border-radius:6px; cursor:pointer; }
